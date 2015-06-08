@@ -166,6 +166,27 @@ body{
 	background:#DB821C;
 	padding:10px;
 }
+
+.phone-number {
+	color: white;
+
+}
+.phone-large {
+
+font-size: 2.8em;
+position: relative;
+z-index: 1000;
+}
+.section2 .phone-large {
+color: white;
+}
+
+.phone-large span{
+	color: #DB821C;
+}
+.phone-number .featured {
+
+}
 .back-to-top:hover , .back-to-top:focus{
 	 color: #ffffff;
 }
