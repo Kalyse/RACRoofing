@@ -168,7 +168,7 @@ body{
 }
 
 .phone-number {
-	color: white;
+	color: white !important;
 
 }
 .phone-number.pull-right {
